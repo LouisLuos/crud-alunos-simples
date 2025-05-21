@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Luiz",
+        "idade": 19,
+        "nota": 5.0
+    },
+    {
+        "nome": "Pedro",
+        "idade": 20,
+        "nota": 10.0
+    },
+    {
+        "nome": "Caio vini",
+        "idade": 19,
+        "nota": 5.2
+    },
+    {
+        "nome": "Cauã",
+        "idade": 19,
+        "nota": "18"
+    },
+    {
+        "nome": "Douglinhas",
+        "idade": 54,
+        "nota": 9.87
+    }
+]
