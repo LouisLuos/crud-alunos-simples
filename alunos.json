@@ -17,11 +17,21 @@
     {
         "nome": "Cauã",
         "idade": 19,
-        "nota": "18"
+        "nota": "4"
     },
     {
         "nome": "Douglinhas",
         "idade": 54,
         "nota": 9.87
+    },
+    {
+        "nome": "Souza",
+        "idade": 34,
+        "nota": 8.83
+    },
+    {
+        "nome": "Debinha",
+        "idade": 19,
+        "nota": "9"
     }
 ]
