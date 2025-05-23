@@ -27,7 +27,7 @@ def carregar_usuarios():
 def criar_aluno():
     alunos = carregar_usuarios()
     aluno = {}
-    aluno["nome"] = input("Digite seu nome: ") 
+    aluno["nome"] = input("Digite seu nome: ").lstrip()
     aluno["idade"] = int(input("Digite sua idade: ").strip())
     aluno["nota"] = float(input("Digite sua nota: ").strip()) 
     alunos.append(aluno.copy())
